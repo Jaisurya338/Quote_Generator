@@ -5,7 +5,7 @@ To create a simple thirukkural generator using HTML, CSS, and JavaScript that di
 
 ## Tasks:
 
-#### 1. Create the HTML Structure:
+### 1. Create the HTML Structure:
 <ul>
   <li>Add a heading Thirukkural Generator</li>
   <li>Use a div or p to display the Thirukkural (Tamil couplet).</li>
@@ -14,7 +14,7 @@ To create a simple thirukkural generator using HTML, CSS, and JavaScript that di
   <li>Add a label showing the Kural number.</li>
 </ul>
 
-#### 2. Style the Layout Using CSS:
+### 2. Style the Layout Using CSS:
 
 <ul>
   <li>Center everything on the page using Flexbox.</li>
@@ -29,7 +29,7 @@ To create a simple thirukkural generator using HTML, CSS, and JavaScript that di
   </li>
 </ul>
 
-#### 3. Add JavaScript Functionality:
+### 3. Add JavaScript Functionality:
 <ul>
   <li>Store an array of Thirukkural objects containing:
   <ul type="square">
@@ -46,6 +46,7 @@ To create a simple thirukkural generator using HTML, CSS, and JavaScript that di
   </ul>
   </li>
 </ul>
+
 ## Code:
 
 ## Output:
